@@ -24,14 +24,13 @@ gulp.task('copyJs', function(){
   return gulp.src(config.files.srcJs).pipe(
     copy(config.dir.build)
   );
+});
 
+gulp.task('generateIndex', function(){
+  
 })
 
-gulp.task('build',['clean', 'copyJs'], function(){
-
-
-
-});
+gulp.task('build',['clean', 'copyJs']);
 
 
 gulp.task('default', function() {
