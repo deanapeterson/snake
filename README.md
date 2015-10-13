@@ -1,33 +1,12 @@
-Port of 'Snake Byte.'
+# snake-yo
 
-Built in Angular 1.4
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.12.1.
 
-Status: Not Done
+## Build & development
 
-## Goals:
-- Finish first, tweak second
-- Have abstracted rendering engine (allow for ports to SVG or other)
-- 
+Run `grunt` for building and `grunt serve` for preview.
 
-## tasks:
-- create wrapping game/app controller
-- create auto-play module
-- create 'bouncing plums'
-- change 'snake-byte.controller' to 'game.controller'
-- countdown timer add more apples
-- move next/last advance into snake-state
-- bind eating to growing
-- 
+## Testing
 
-## Road Map:
-- build out maps from source materials below
-
-
-## Someday/Maybe/ideas
-- Snake poop creates wall
-- incorporate sound html5 audio etc.
-- animated level transitions, crashes
-
-https://en.wikipedia.org/wiki/Snake_Byte
-https://www.mobygames.com/game/snake-byte
-https://www.youtube.com/watch?v=H7Y4HVXVzoI
+Running `grunt test` will run the unit tests with karma.
