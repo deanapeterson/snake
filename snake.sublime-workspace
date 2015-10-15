@@ -1,0 +1,2329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"searchRuleStr",
+				"searchRuleStrFilter"
+			],
+			[
+				"ng",
+				"ngd	Create Angular Directive"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"Freight",
+				"FreightSorterRule"
+			],
+			[
+				"customer",
+				"CustomerRuleModal"
+			],
+			[
+				"ifra",
+				"iframeSrc"
+			],
+			[
+				"send",
+				"sendCloseMessage"
+			],
+			[
+				"content",
+				"contentFrame"
+			],
+			[
+				"trans",
+				"transitThresholdsStr"
+			],
+			[
+				"update",
+				"updateThresholdParams"
+			],
+			[
+				"threshold",
+				"thresholdParams"
+			],
+			[
+				"th",
+				"thresholdParams"
+			],
+			[
+				"register",
+				"registerFleetActivityTabAlert"
+			],
+			[
+				"select",
+				"selectTractorById"
+			],
+			[
+				"tra",
+				"tractorDetailsModal"
+			],
+			[
+				"break",
+				"breakpointDef"
+			],
+			[
+				"bre",
+				"breakpointDef"
+			],
+			[
+				"is",
+				"isWithinWhatRange"
+			],
+			[
+				"ngi",
+				"nginject	ngInject"
+			],
+			[
+				"calc",
+				"calcCellWidth (fn)"
+			],
+			[
+				"get",
+				"getTestChildWidth"
+			],
+			[
+				"stopStart",
+				"stopStartMs (num)"
+			],
+			[
+				"stop",
+				"stopStartBuffer (num)"
+			],
+			[
+				"selec",
+				"selectedTractorId"
+			],
+			[
+				"prev",
+				"previousUiRouterState"
+			],
+			[
+				"ad",
+				"administratorModal"
+			],
+			[
+				"sele",
+				"selectedHasChanged"
+			],
+			[
+				"tractor",
+				"tractorsSettingsResource"
+			],
+			[
+				"tract",
+				"tractorsSettingsResource"
+			],
+			[
+				"emptyMiles",
+				"emptyMilesPerc"
+			],
+			[
+				"icon",
+				"iconKey"
+			],
+			[
+				"parse",
+				"parseDateStr"
+			],
+			[
+				"trips",
+				"tripsTimeline"
+			],
+			[
+				"avail",
+				"availableSprites"
+			],
+			[
+				"last",
+				"lastInTour"
+			],
+			[
+				"first",
+				"firstInTour"
+			],
+			[
+				"destination",
+				"destinationStop"
+			],
+			[
+				"origin",
+				"originStop"
+			],
+			[
+				"create",
+				"createEventObj"
+			],
+			[
+				"tourData",
+				"tourDataDFD"
+			],
+			[
+				"destn",
+				"destinationStop"
+			],
+			[
+				"no",
+				"normalizeScore"
+			],
+			[
+				"con",
+				"convertMileageToScore"
+			],
+			[
+				"class",
+				"classPrefix"
+			],
+			[
+				"trip",
+				"tripMoveStatusOverride"
+			],
+			[
+				"e",
+				"elapsedTime"
+			],
+			[
+				"targ",
+				"targetIsolateScope"
+			],
+			[
+				"statu",
+				"statusColorDef"
+			],
+			[
+				"Trans",
+				"TranslationTableProvider"
+			],
+			[
+				"review",
+				"reviewDuration"
+			],
+			[
+				"stmDateTime",
+				"stmDateTimeToJs"
+			],
+			[
+				"ref",
+				"autoRefreshPromise"
+			],
+			[
+				"auto",
+				"autoRefresh"
+			],
+			[
+				"autoRefr",
+				"autoRefreshPromise"
+			],
+			[
+				"userRegion",
+				"userRegionId"
+			],
+			[
+				"cache",
+				"cacheExpire"
+			],
+			[
+				"time",
+				"timelineBuildReport"
+			],
+			[
+				"timeline",
+				"timelineLogItems"
+			],
+			[
+				"un",
+				"unstoredCompletedLog"
+			],
+			[
+				"ui",
+				"ui_app_name"
+			],
+			[
+				"lan",
+				"languageLoadedTs"
+			],
+			[
+				"rem",
+				"remainingWorkHours"
+			],
+			[
+				"st",
+				"storePrefix"
+			],
+			[
+				"cac",
+				"cacheKey"
+			],
+			[
+				"tsg",
+				"tsgSvgUtils"
+			],
+			[
+				"next",
+				"nextTabState"
+			],
+			[
+				"tab",
+				"tabNextState"
+			],
+			[
+				"log",
+				"logStyle"
+			],
+			[
+				"high",
+				"highlightTab"
+			],
+			[
+				"stateChange",
+				"stateChangeSuccess"
+			],
+			[
+				"service",
+				"serviceResponseReporter"
+			],
+			[
+				"servi",
+				"serviceResponseReporter"
+			],
+			[
+				"request",
+				"requestTimestamp"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"store",
+				"storeCache"
+			],
+			[
+				"response",
+				"responseTimestamp"
+			],
+			[
+				"toggle",
+				"toggleDesignationCache"
+			],
+			[
+				"forEach",
+				"forEachDrayMoveEdit"
+			],
+			[
+				"move",
+				"moveToConsole"
+			],
+			[
+				"load",
+				"loadTypesAry"
+			],
+			[
+				"dis",
+				"dispatchUserDate"
+			],
+			[
+				"changed",
+				"changedToCommercial"
+			],
+			[
+				"unlo",
+				"unlockAllByUser"
+			],
+			[
+				"descri",
+				"descriptionArray"
+			],
+			[
+				"planning",
+				"planningTimeoutAlertPromise"
+			],
+			[
+				"inputs",
+				"inputMovesLock"
+			],
+			[
+				"init",
+				"initUnplannedDrayMovesViewModel"
+			],
+			[
+				"selected",
+				"selectedIds"
+			],
+			[
+				"pr",
+				"proposedChange"
+			],
+			[
+				"svg",
+				"tsgSvgUtils"
+			],
+			[
+				"des",
+				"destinationStop"
+			],
+			[
+				"from",
+				"fromStateParams"
+			],
+			[
+				"optimizer",
+				"optimizerStatus"
+			],
+			[
+				"on",
+				"onStateChangeError"
+			],
+			[
+				"set",
+				"setScheduleViewportSize"
+			],
+			[
+				"hi",
+				"highlightCntrl"
+			],
+			[
+				"gene",
+				"generateHourGrid"
+			],
+			[
+				"date",
+				"datepickerOptions"
+			],
+			[
+				"fata",
+				"fatalAlertModalOptions"
+			],
+			[
+				"optimiz",
+				"optimizationId"
+			],
+			[
+				"c",
+				"cgp	console-group"
+			],
+			[
+				"opti",
+				"optimizationStatus"
+			],
+			[
+				"opt",
+				"optimizationStatus"
+			],
+			[
+				"optim",
+				"optimizationId"
+			],
+			[
+				"INPROGRESS",
+				"inprogressRouteConfig"
+			],
+			[
+				"commerc",
+				"commercial-not-available"
+			],
+			[
+				"footer",
+				"footerTemplateOverride"
+			],
+			[
+				"html",
+				"html2js"
+			],
+			[
+				"interv",
+				"intervalPromise"
+			],
+			[
+				"star",
+				"offsetStart"
+			],
+			[
+				"fleet",
+				"fleetActivityResource"
+			],
+			[
+				"config",
+				"config"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"optimi",
+				"optimizationStatus"
+			],
+			[
+				"timeout",
+				"timeoutCache"
+			],
+			[
+				"status",
+				"statusArray"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"flee",
+				"fleetActivityApiService"
+			],
+			[
+				"per",
+				"percentLeft"
+			],
+			[
+				"count",
+				"countdownBar"
+			],
+			[
+				"op",
+				"optimizationStatus"
+			],
+			[
+				"applied",
+				"appliedKey"
+			],
+			[
+				"input",
+				"inputMovesApiService"
+			],
+			[
+				"$loc",
+				"$locationChangeStart	AngularJS (E)"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"available",
+				"availableRegionsLoaded"
+			],
+			[
+				"mockServices",
+				"mockServiceRegistryProvider"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2954,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/routes.config.js",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app/app.view.html",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tabs",
+		"selected_items":
+		[
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"browse",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"br",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"synta",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"snippet",
+				"Snippet: iife"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"TABS",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"brow",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"Snippet: ",
+				"Snippet: iife"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"hint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"print",
+				"Print Entire File"
+			],
+			[
+				"open ",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"open",
+				"OpenPath: Open project folder"
+			],
+			[
+				"command",
+				"Preferences: Commands - User"
+			],
+			[
+				"emmit",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"thmr",
+				"Themr: List themes"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"brose",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"side",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"brower",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"validat",
+				"Js Validate"
+			],
+			[
+				"validate",
+				"Js Validate"
+			],
+			[
+				"index",
+				"Snippet: Immediately-invoked function expression"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"brows",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"browe",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"prety",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sourround",
+				"Surround: change surround"
+			],
+			[
+				"surround",
+				"Surround: surround selection"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"syntax ta",
+				"Set Syntax: Tasks"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"markd",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insert",
+				"InsertDate: Default"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+			"conemu",
+			"grunt compile",
+			"toggle_side_bar",
+			"toggle_menu",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/upst201/localhost/GitHub/snake-yo",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/bower_components",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/bower_components/bootstrap-sass-official/assets",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/bower_components/bootstrap-sass-official/assets/stylesheets"
+	],
+	"file_history":
+	[
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/assets/main.scss",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/game-controller.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/game-board/game-board.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/food/food.service.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/barriers/barriers.service.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/game.controller.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/barriers/barriers.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/levels/level-definitions/level-01.run.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/Gruntfile.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/styles/components/app.scss",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/index.html",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/directives/game-controls.directive.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/snake-byte.module.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/snake-byte.controller.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/levels.service.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/configuration.service.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/.jshintrc",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/app/app.module.js",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/styles/main.scss",
+		"/C/Users/upst201/localhost/GitHub/snake-yo/app/blocks/snake-game/models/game-state.model.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rules/customer-rules.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/index.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/gridtable.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/bco/bco.service.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/services.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-rule-factory.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-sorter-rule.class.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rules/customer-rules.controller.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-sorter-rules.model.js",
+		"/C/Users/upst201/localhost/sandbox.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rule-modal/customer-rule-modal.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rule-modal/customer-rule-modal.controller.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/long-rules.json",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/main.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/bco/select-bco.directive.js",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/ShellCommand/Default.sublime-keymap",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/User/ShellCommand.sublime-keymap",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/bco/bco-object.txt",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/customers/select-customer.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/customers/select-customer.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rules/location-rules.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/sort-by/sort-by.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/sort-by/click-to-sort.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/sort-by/sort-by-controller.directive.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/rules.json",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rules/location-rules.controller.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rules/customer-rules.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rules/location-rules.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/large-list-rules.json",
+		"/C/Users/upst201/localhost/freight-sorter-development/README.md",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rules/location-rules.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rules/customer-rules.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/form-elements.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rule-modal/location-rule-modal.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/sort-by/click-to-sort.directive.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/location-lookup/location-lookup.service.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/location-lookup/location-lookup.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/sort-classes.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/node_modules/ricola3/node_modules/foundation-sites/scss/foundation/components/_grid.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/grid-36.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/regions/select-region.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/margin-padding-classes.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/build/config.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/app.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/node_modules/ricola3/ricola.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/dray-types/dray-types.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/require-one.directive.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/common.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/require-one.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rule-modal/require-one.directive.js",
+		"/G/Technology/Tactical Solutions/Projects/Appointment Management/Freight Sorter Project/REST API and Contracts/freight-sorter.services.txt",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/location-lookup/location-lookup.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/app.config.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/rc-modal-extension-classes.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/node_modules/ricola3-streamline-skin/src/scss/components/_modal.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rule-modal/location-rule-modal.controller.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/regions/regions.filter.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rule-modal/customer-rule-modal.controller.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.routes.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/regions/regions.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/regions/regions.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.controller.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/stm-spinner/stm-spinner.directive.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/stm-spinner/stm-spinner.service.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/services/customers/customers.service.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/stm-spinner/stm-spinner.css",
+		"/C/Users/upst201/localhost/freight-sorter-development/run-json-server.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/location-rule-modal/location-rule-modal.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/build/registerGruntTasks.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/build/tasks/open.js",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/ShellCommand/ShellCommand.sublime-settings",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/ShellCommand/Default.sublime-commands",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/User/ShellCommand.sublime-commands",
+		"/C/Users/upst201/localhost/freight-sorter-development/conemu.bat",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Installed Packages/ConEmuOpen.sublime-package",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rule-modal/customer-rule-modal.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-sorter-rule.class.spec.js",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/Jasmine JS/Jasmine.sublime-settings",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/upst201/applications/Sublime Text 3/Data/Packages/Jasmine JS/Default (Windows).sublime-keymap",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.model.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-sorter-rules.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.model.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-sorter-rules.model.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rules/freight-rule-types.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rule.class.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/freight-sorter-rule.class.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/models/models.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/rules.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.html",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/rc-icon-size.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/nudge-class.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.module.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.controller.js",
+		"/C/Users/upst201/Desktop/delete-btn/base64.txt",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.controller.spec.js",
+		"/C/Users/upst201/Desktop/delete-btn/delete-btn.svg",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/confirm-deletion-modal/confirm-deletion-modal.service.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/unselectable-class.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/inline-inputs.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/sass/components/text-utilities-classes.scss",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/rules/customer-rule-modal/customer-rule-modal.service.spec.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/build/tasks/connect.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/src/app/common/constants/service-url.service.js",
+		"/C/Users/upst201/localhost/freight-sorter-development/build/utils/assign-proxy-servers.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"C:\\Users\\upst201\\localhost\\freight-sorter-development\\src\\",
+			"<project>/src",
+			"<project>",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\svg-styles",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\ngGrid-helpers",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\planning",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\resources\\inputs-moves",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\dispatch\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\dispatch",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\review",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\dispatch",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\dispatch\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\bower_components\\ng-grid",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\stm-cron",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\,-*.json",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer\\planning",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\optimizer",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"*.html",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\10-optimizer\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\node_modules",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\shared\\tractor-schedule-grid",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\10-optimizer\\",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\grunt-stm-tools",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src",
+			"C:\\Users\\upst201\\localhost\\id2de-development\\src\\routes\\10-optimizer\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\routes\\02-price\\shipping-details",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\routes\\01-start\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\routes\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\quoteline",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\HttpError",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\routes",
+			"C:\\Users\\upst201\\localhost\\quoteline",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\services",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\02-price\\shipping-details",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\components\\timeslot-slider",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\02-review",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\01-start",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src",
+			"C:\\Users\\upst201\\localhost\\Quoteline\\_dev\\src\\01-get-price"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SnakeByteController",
+			"gameControls",
+			"searchStrFilter",
+			"customerRules.filters.string",
+			"getByType",
+			"\"",
+			"FreightSorterRule",
+			"        \"pickup\": false,\n        \"delivery\": false",
+			"        \"stay\": false,\n        \"drop\": false",
+			"city",
+			"onCustomerSelect",
+			"selectCustomerDirective",
+			"customersFactory",
+			"click-to-sort",
+			"commercial",
+			"dedicated",
+			"stopType",
+			"DEDICATED",
+			"COMMERCIAL",
+			"drayType",
+			"\"",
+			"'",
+			"\"",
+			"large-",
+			"6",
+			"3",
+			"grid-html-classes",
+			"grid-calc",
+			"$totalColumns",
+			"$total-columns",
+			"grid-html-classes",
+			"large",
+			",",
+			"\"",
+			"small-8",
+			"small-4",
+			"moveType",
+			"pickup",
+			"moveType",
+			"city",
+			"selectedLocation",
+			"\"",
+			"DirectiveName",
+			"\"",
+			"service.url",
+			"this",
+			"\"",
+			"selectCustomerTemplate",
+			"\"",
+			"getRegionLabelFactory",
+			"\"",
+			"locationRule",
+			"; ",
+			";",
+			"; ",
+			";",
+			"newRule",
+			"editRule",
+			"[];\n",
+			"locationModal.rule.data",
+			".rule",
+			"customerRule",
+			"apply",
+			"editRule",
+			".rule",
+			"\"",
+			"locationModal.rule.",
+			"rule.",
+			"_toDelete",
+			"\"",
+			"div",
+			"row collapse",
+			"locationRule",
+			"location.",
+			"customerRule",
+			"ConfirmDeletionModalService",
+			"p",
+			"\"",
+			"CustomerRuleModalService",
+			"customerRules",
+			"small-",
+			"small-1",
+			"large-7",
+			"small-",
+			"\"",
+			"selectProxyServer",
+			"\"",
+			"_LocationRuleModalService_",
+			"-directive",
+			"locationRuleModal",
+			"rules-location",
+			"CustomerCtrl",
+			"customerDirective",
+			"EditLocationRuleModalService",
+			"EditCustomerRuleModalService",
+			"_EditCustomerRuleModalService_",
+			"EditCustomerRuleModalService",
+			"FREIGHT_SORTER_URL",
+			"SERVICE_URL",
+			"routeProvider",
+			"ngRoute",
+			"SERVICE_URL",
+			"RulesService",
+			"customer",
+			"$ui-bg-color",
+			"'",
+			"th",
+			"\"",
+			"DirectiveName",
+			"customer",
+			"is in",
+			"is less than",
+			"greater",
+			"customer-directive",
+			"region-directive",
+			"getUserData",
+			"routeProvider",
+			"maxModalHeight",
+			"windowHeight",
+			"modalEl",
+			"		var ",
+			"modalEl",
+			"height",
+			"id",
+			"iframeEl",
+			"open",
+			"$userId",
+			"$currentUserContent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SERVICE_URL",
+			"20150120",
+			"20150121",
+			"20150120",
+			"20150121",
+			"20150120",
+			"columns",
+			"\"D\"",
+			"inr",
+			"02-price",
+			"01-start",
+			"02-review-price",
+			"01-review-price",
+			"01-get-price"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1098,
+								1098
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/config/routes.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app/app.view.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 215.0
+	},
+	"output.tern_arghint":
+	{
+		"height": 130.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "snake.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"freight-sorter",
+				"freight-sorter-development\\src\\app\\rules\\freight-sorter-rules\\freight-sorter-rules.model.js"
+			],
+			[
+				"customer-rules.con",
+				"freight-sorter-development\\src\\app\\rules\\customer-rules\\customer-rules.controller.js"
+			],
+			[
+				"index",
+				"src\\index.html"
+			],
+			[
+				"stmspinner",
+				"src\\shared\\stm-spinner\\stmSpinnerServiceModule.js"
+			],
+			[
+				"userdate",
+				"src\\shared\\user-date\\UserDateClassService.js"
+			],
+			[
+				"optimizerplanningr",
+				"src\\routes\\optimizer\\planning\\optimizerPlanningRoutesConfig.js"
+			],
+			[
+				"ind",
+				"src\\index.html"
+			],
+			[
+				"app",
+				"src\\routes\\appModule.js"
+			],
+			[
+				"planningta",
+				"src\\routes\\optimizer\\tab-alert-services\\planningTabAlertService.js"
+			],
+			[
+				"unplannedmoves",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\unplannedMovesModal\\unplannedMovesController.js"
+			],
+			[
+				"tsgstop",
+				"src\\shared\\tractor-schedule-grid\\elements\\tsgStopDirective.js"
+			],
+			[
+				"tsgbox",
+				"src\\shared\\tractor-schedule-grid\\elements\\tsgBoxDirective.js"
+			],
+			[
+				"add",
+				"src\\shared\\trips-timeline\\add-to-timelineService.js"
+			],
+			[
+				"tractorset",
+				"src\\shared\\resources\\tractor-settings\\tractorSettingsResource.js"
+			],
+			[
+				"tsgsvg",
+				"src\\shared\\tractor-schedule-grid\\services\\tsgSvgUtilsService.js"
+			],
+			[
+				"stmdatetime",
+				"src\\shared\\stm-datetime\\stmDateTimeUtilService.js"
+			],
+			[
+				"optimizerstatus",
+				"src\\routes\\optimizer\\optimizerStatusService.js"
+			],
+			[
+				"svgsprites",
+				"src\\shared\\svg-sprites\\svgSpritesModule.js"
+			],
+			[
+				"svgst",
+				"src\\shared\\svg-styles\\svgStylesModule.js"
+			],
+			[
+				"reviewtour",
+				"src\\routes\\optimizer\\review\\tourDetails\\reviewTourDetailsController.js"
+			],
+			[
+				"tsgsu",
+				"src\\shared\\tractor-schedule-grid\\views\\tsgSummaryView.html"
+			],
+			[
+				"filters",
+				"src\\shared\\filters\\app-filtersModule.js"
+			],
+			[
+				"dispatchtripbuilder",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\dispatchTripBuilderService.js"
+			],
+			[
+				"tripget",
+				"src\\shared\\resources\\trip-get\\tripGetResource.js"
+			],
+			[
+				"getequip",
+				"src\\shared\\data-helpers\\getEquipmentType.js"
+			],
+			[
+				"reviewtourdetails",
+				"src\\routes\\optimizer\\review\\tourDetails\\reviewTourDetailsService.js"
+			],
+			[
+				"dispatchtourdetails",
+				"src\\routes\\optimizer\\dispatch\\tourDetails\\dispatchTourDetailsController.js"
+			],
+			[
+				"nggridhelpers",
+				"src\\shared\\ngGrid-helpers\\ngGridHelpersModule.js"
+			],
+			[
+				"commercialtrip",
+				"src\\routes\\optimizer\\dispatch\\tripTemplate\\commercialTripTemplateModule.js"
+			],
+			[
+				"tractordeta",
+				"src\\routes\\administratorModal\\tractors\\tractor-detail\\tractordetailModule.js"
+			],
+			[
+				"gettrip",
+				"src\\shared\\data-helpers\\getTripTime.js"
+			],
+			[
+				"id2dtrips",
+				"src\\shared\\id2d-trips\\id2dTripsService.js"
+			],
+			[
+				"reviewdedictaed",
+				"src\\routes\\optimizer\\review\\dedicated\\reviewDedicatedController.js"
+			],
+			[
+				"planningservice",
+				"src\\routes\\optimizer\\planning\\inputs\\unplannedDrayMoves\\planningService.js"
+			],
+			[
+				"planning",
+				"src\\routes\\optimizer\\planning\\planningUserDateService.js"
+			],
+			[
+				"unplannedtripsc",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\unplannedTripsModal\\unplannedTripsController.js"
+			],
+			[
+				"emptyconti",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\emptyContainerModal\\emptyContainerService.js"
+			],
+			[
+				"emptycont",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\emptyContainerModal\\emptyContainerController.js"
+			],
+			[
+				"dispatchstruc",
+				"src\\routes\\optimizer\\dispatch\\trip-builder\\dispatchStructuresService.js"
+			],
+			[
+				"dispatchtour",
+				"src\\routes\\optimizer\\dispatch\\tourDetails\\dispatchTourDetailsService.js"
+			],
+			[
+				"inde",
+				"src\\index.html"
+			],
+			[
+				"main",
+				"src\\main.js"
+			],
+			[
+				"appfil",
+				"src\\shared\\filters\\app-filtersModule.js"
+			],
+			[
+				"tsgcont",
+				"src\\shared\\tractor-schedule-grid\\tsgController.js"
+			],
+			[
+				"route",
+				"src\\routes\\appRoutesConfig.js"
+			],
+			[
+				"watch",
+				"src\\routes\\watchUiRouterEventsRun.js"
+			],
+			[
+				"main.js",
+				"src\\main.js"
+			],
+			[
+				"stmspinn",
+				"src\\routes\\optimizer\\stmSpinnerOptimizerTriggersRun.js"
+			],
+			[
+				".",
+				".jshintrc"
+			],
+			[
+				"fleetactivityc",
+				"routes\\optimizer\\dispatch\\fleet-activity\\fleetActivityController.js"
+			],
+			[
+				"input",
+				"shared\\resources\\inputs-moves\\inputsMovesResource.js"
+			],
+			[
+				"inputs",
+				"src\\shared\\resources\\inputs-modeflag-update\\inputsModeflagUpdateResource.js"
+			],
+			[
+				"tsgcontroller",
+				"tractor-schedule-grid\\tsgController.js"
+			],
+			[
+				"tsgstay",
+				"tractor-schedule-grid\\elements\\tsgStopStayDirective.js"
+			],
+			[
+				"dallas",
+				"src\\shared\\resources\\fleet-activity\\dallas-20150118.json"
+			],
+			[
+				"tourdeta",
+				"review\\tourDetails\\reviewTourDetailsService.js"
+			],
+			[
+				"tractorschedule",
+				"src\\shared\\tractor-schedule-grid\\core\\tractorScheduleGridDirective.js"
+			],
+			[
+				"optimizeractivity",
+				"routes\\optimizer\\optimizerActivityMonitor\\optimizerActivityMonitorModalService.js"
+			],
+			[
+				"planingroutes",
+				"routes\\optimizer\\planning\\optimizerPlanningRoutesConfig.js"
+			],
+			[
+				"badge",
+				"shared\\stm-badge\\stmBadgeModule.js"
+			],
+			[
+				"in",
+				"id2de-development\\src\\index.html"
+			],
+			[
+				"optimizerplanningview",
+				"optimizer\\planning\\optimizerPlanningView.html"
+			],
+			[
+				"planningroutes",
+				"id2de-development\\src\\routes\\optimizer\\planning\\optimizerPlanningRoutesConfig.js"
+			],
+			[
+				"id2dmap",
+				"src\\shared\\id2dMap\\id2dMapService.js"
+			],
+			[
+				"svg",
+				"src\\shared\\svg-sprites\\svgSpritesModule.js"
+			],
+			[
+				"userdateclass",
+				"src\\shared\\user-date\\UserDateClassService.js"
+			],
+			[
+				"userdateclas",
+				"src\\shared\\user-date\\UserDateClassService.js"
+			],
+			[
+				"stmresi",
+				"src\\shared\\directives\\stmWatchResizeDirective.js"
+			],
+			[
+				"optimizerroutes",
+				"src\\routes\\optimizer\\optimizerRoutesConfig.js"
+			],
+			[
+				"usermode",
+				"src\\shared\\user-mode\\userModeService.js"
+			],
+			[
+				"svgstyles",
+				"src\\shared\\svg-styles\\svgStylesModule.js"
+			],
+			[
+				"user",
+				"src\\shared\\resources\\user\\userResource.js"
+			],
+			[
+				"optimizerstatsu",
+				"src\\routes\\optimizer\\optimizerStatusService.js"
+			],
+			[
+				"dedicatedtra",
+				"src\\routes\\optimizer\\planning\\inputs\\dedicatedTractorsService.js"
+			],
+			[
+				"regionre",
+				"src\\shared\\resources\\regions\\regionResource.js"
+			],
+			[
+				"approute",
+				"src\\routes\\appRoutesConfig.js"
+			],
+			[
+				"stmdialog",
+				"src\\shared\\stm-dialog\\stmDialogService.js"
+			],
+			[
+				"copy",
+				"build\\configs\\copy.js"
+			],
+			[
+				"config",
+				"build\\config.js"
+			],
+			[
+				"stmerror",
+				"src\\shared\\stm-error\\stmErrorModule.js"
+			],
+			[
+				"optimizerreviewrou",
+				"src\\routes\\optimizer\\review\\optimizerReviewRoutesConfig.js"
+			],
+			[
+				"dispatchcommer",
+				"src\\routes\\optimizer\\dispatch\\commercial\\dispatchCommercialController.js"
+			],
+			[
+				"optimizer-cancel",
+				"src\\shared\\resources\\optimizer-results-cancel\\optimizerResultsCancelResource.js"
+			],
+			[
+				"stmdia",
+				"src\\shared\\stm-dialog\\stmDialogController.js"
+			],
+			[
+				"concat",
+				"build\\configs\\concat.js"
+			],
+			[
+				"html2",
+				"build\\configs\\html2js.js"
+			],
+			[
+				"concat.js",
+				"build\\configs\\concat.js"
+			],
+			[
+				"getvendor",
+				"build\\utils\\getVendorFiles.js"
+			],
+			[
+				"stmcron",
+				"src\\shared\\stm-cron\\stmCronModule.js"
+			],
+			[
+				"isu",
+				"src\\shared\\data-helpers\\isUnplannedDrayMoveExpiringSoon.js"
+			],
+			[
+				"tsgloadtype",
+				"src\\shared\\tractor-schedule-grid\\directives\\tsgLoadtypeDirective.js"
+			],
+			[
+				"tsgload",
+				"src\\shared\\tractor-schedule-grid\\directives\\tsgLoadtypeDirective.js"
+			],
+			[
+				"svgsprite",
+				"src\\shared\\svg-sprites\\svgSpritesModule.js"
+			],
+			[
+				"tsgstopstay",
+				"src\\shared\\tractor-schedule-grid\\directives\\tsgStopStayDirective.js"
+			],
+			[
+				"json",
+				"bower_components\\modernizr\\feature-detects\\json.js"
+			],
+			[
+				"tsgstatus",
+				"src\\shared\\tractor-schedule-grid\\directives\\tsgStatusBoxDirective.js"
+			],
+			[
+				"optimzer",
+				"src\\mock-data\\optimizerResults.json"
+			],
+			[
+				"appcontr",
+				"src\\routes\\appController.js"
+			],
+			[
+				"index.htm",
+				"src\\index.html"
+			],
+			[
+				"stmdi",
+				"src\\shared\\stm-dialog\\stmDialogService.js"
+			],
+			[
+				"tsgcontr",
+				"src/shared/tractor-schedule-grid/tsgController.js"
+			],
+			[
+				"vendors",
+				"src/shared/resources/vendors/vendorsResource.js"
+			],
+			[
+				"op",
+				"src/routes/10-optimizer/tabs/planning/optimizerPlanningController.js"
+			],
+			[
+				"dispatchcontr",
+				"src/routes/10-optimizer/tabs/dispatch/optimizerDispatchController.js"
+			],
+			[
+				"tsgscrolltarget",
+				"src/shared/tractor-schedule-grid/tsgScroll/tsgScrollTargetDirective.js"
+			],
+			[
+				"svgsty",
+				"src/shared/svg-styles/svgStylesService.js"
+			],
+			[
+				"tsgshift",
+				"src/shared/tractor-schedule-grid/directives/tsgShiftDirective.js"
+			],
+			[
+				"svgstyle",
+				"src/shared/svg-styles/svgStylesService.js"
+			],
+			[
+				"svgs",
+				"src/shared/svg-styles/svgStylesService.js"
+			],
+			[
+				"scroll",
+				"src/shared/tractor-schedule-grid/directives/tsgScrollDirective.js"
+			],
+			[
+				"svgu",
+				"src/shared/utilities/svgUtilsModule.js"
+			],
+			[
+				"tsgsett",
+				"src/shared/tractor-schedule-grid/services/tsgSettingsService.js"
+			],
+			[
+				"svg-st",
+				"src/shared/svg-styles/svgStylesService.js"
+			],
+			[
+				"directive",
+				"src/shared/directives/app-directivesModule.js"
+			],
+			[
+				"mock",
+				"src/mock-data/mock-tours.json"
+			],
+			[
+				"dire",
+				"src/shared/directives/app-directivesModule.js"
+			],
+			[
+				"directives",
+				"src/shared/directives/app-directivesModule.js"
+			],
+			[
+				"style",
+				"src/assets/styles.css"
+			],
+			[
+				"svg-",
+				"src/assets/svg-icons.css"
+			],
+			[
+				"stmd",
+				"src/shared/filters/stmDateTime.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"stmda",
+				"src/shared/filters/stmDateTime.js"
+			],
+			[
+				"filter",
+				"src/shared/filters/app-filtersModule.js"
+			],
+			[
+				"app-di",
+				"src/shared/directives/app-directivesModule.js"
+			],
+			[
+				"assets",
+				"src/assets/styles.css"
+			],
+			[
+				"sty",
+				"src/assets/styles.css"
+			],
+			[
+				"stm",
+				"bower_components/stm-tabset/stm-tabset.css"
+			],
+			[
+				"",
+				"src/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\upst201\\localhost\\id2de\\id2de-triangulation.sublime-project"
+			],
+			[
+				"close",
+				"C:\\Users\\upst201\\Documents\\Sublime_Projects\\ID2DE-MOVE-LOCK.sublime-project"
+			],
+			[
+				"quoteline",
+				"C:\\Users\\upst201\\Documents\\Sublime_Projects\\Quoteline.sublime-project"
+			],
+			[
+				"dra",
+				"/C/Users/upst201/Documents/Sublime_Projects/DrayCapacityManagement.sublime-project"
+			],
+			[
+				"quo",
+				"/C/Users/upst201/Documents/Sublime_Projects/Quoteline.sublime-project"
+			],
+			[
+				"apa",
+				"/C/Users/upst201/Documents/Sublime_Projects/ApacheCONF.sublime-project"
+			],
+			[
+				"proxy",
+				"/C/Users/upst201/Documents/Sublime_Projects/Grunt-UPRR-Proxy.sublime-project"
+			],
+			[
+				"q",
+				"/C/Users/upst201/Documents/Sublime_Projects/Quoteline.sublime-project"
+			],
+			[
+				"ue",
+				"/C/Users/upst201/Documents/Sublime_Projects/ue-apps-template.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
