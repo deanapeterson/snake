@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-  .module('snake-app', [
+  .module('app', [
     'ngAnimate',
     'ngTouch',
     'snake-byte'

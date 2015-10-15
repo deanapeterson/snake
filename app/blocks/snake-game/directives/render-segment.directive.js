@@ -4,13 +4,10 @@ angular
     .module('snake-byte')
     .directive('renderSegment', renderSegmentDirective);
 
-
-
 function renderSegmentDirective(snakeByteConfig, snakeState) {
 
     return {
         restrict: 'E',
-        // template : '<div>{{$index}}, {{segment}}, </div>',
         link: linkFn
     };
 

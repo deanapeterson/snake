@@ -1,8 +1,9 @@
+'use strict';
 
-
-angular.module('snake-byte')
-.factory('food', foodFactory)
-.directive('food', foodDirective);
+angular
+  .module('snake-byte')
+  .factory('food', foodFactory)
+  .directive('food', foodDirective);
 
 function foodFactory($rootScope){
   var service = {
@@ -17,17 +18,17 @@ function foodFactory($rootScope){
   };
   init();
   return service;
-  
+
   function init(){
-    
+
     $rootScope.$on('beforeAdvance', checkCollision)
-    
+
   }
-  
+
   function checkCollision(event, coords){
     var length = service.data.length;
     var barrier;
-    
+
     for(var i = 0; i < length; i++){
       if(
           service.data[i][0] === coords[0] &&
@@ -53,8 +54,8 @@ function foodDirective(snakeByteConfig, snakeState, food) {
         var barrierEls = '';
 
         $element.empty();
-        
-        
+
+
         angular.forEach(food.data, function(coords){
           var el = angular.element("<div class='food'></div>");
             el.attr('food-coords',coords);
@@ -64,10 +65,10 @@ function foodDirective(snakeByteConfig, snakeState, food) {
               left: coords[0] * snakeByteConfig.blockSize,
               top: coords[1] * snakeByteConfig.blockSize,
           });
-          
+
           $element.append(el);
         })
-        
+
         food.onEaten = function(coords){
           console.log(coords);
           $element.find('[food-coords="'+ coords.slice(0,2).toString() +'"]').remove();

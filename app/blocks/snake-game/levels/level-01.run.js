@@ -5,7 +5,6 @@ angular.module('snake-byte')
 
 function addLevelOne(levels) {
 
-
     levels.add({
         name: 'Level One',
         wallClass: 'wall-green',

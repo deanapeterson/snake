@@ -1,7 +1,8 @@
 'use strict';
 
-angular.module('snake-byte')
-    .controller('SnakeByteController', SnakeByteController);
+angular
+  .module('snake-byte')
+  .controller('SnakeByteController', SnakeByteController);
 
 function SnakeByteController(gameState, snakeState, $interval, $rootScope, barriers) {
     var sbc = this;
