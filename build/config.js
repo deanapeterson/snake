@@ -28,7 +28,7 @@ module.exports = {
 			'node_modules/fastclick/lib/fastclick.js'
 		],
 		css: [
-			// Ricola and application CSS will be loaded at the Sass compilation phase.
+			
 
 		],
 		// files in html/images will not be flattened or minified
@@ -36,42 +36,7 @@ module.exports = {
 		images: [],
 		assets: []
 	},
-
-	/**
-	 * You will want to configure the proxy below to point to your backing application.
-	 */
-	proxies: [
-		{
-			context: '/id2de-services/secure',
-			host: 'xtest.www.shipstreamline.com',
-			https: true,
-			loginUrl: 'https://xdev.home.www.uprr.com/admin/login.fcc?TARGET='
-		},
-		{
-			context: '/freight-sorter/services',
-			
-			host: 'localhost',
-			port: 8080
-		}
-	],
-
 	proxyServers : {
-		'xtest' : {
-			name : 'xtest',
-			type : 'SiteMinder',
-			host : 'xtest.www.shipstreamline.com'
-		},
-		'xdev' : {
-			name : 'xdev',
-			type : 'SiteMinder',
-			host : 'xdev.www.shipstreamline.com'
-		},
-		'prod' : {
-			name : 'prod',
-			type : 'SiteMinder',
-			host : 'www.shipstreamline.com',
-			prodWarning : true
-		},
 		'local' : {
 			name : 'local',
 			host : 'localhost',
@@ -85,21 +50,9 @@ module.exports = {
 		}
 	},
 	proxyServices : {
-		'/id2de-services' : {
-			servers : ['xtest', 'prod'],
-			defaultServer : 'xtest'
-		},
-		'/sln/appointment-services' : {
-			servers : ['xtest', 'prod'],
-			defaultServer : 'xtest'
-		},
-		'/pricing-services' : {
-			servers : ['xtest', 'prod'],
-			defaultServer : 'xtest'
-		},
-		'/freight-sorter/services/jas/secure' : {
-			servers : ['json'],
-			defaultServer : 'json'
+		'/xxxx-xxxxx' : {
+			servers : ['test', 'prod'],
+			defaultServer : 'test'
 		}
 	},
 

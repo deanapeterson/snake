@@ -11,12 +11,7 @@ module.exports = {
             sourceMap: true,
             sourceMapContents: true,
             includePaths: [
-                'node_modules/foundation-sites/scss',
-                'node_modules/ricola3-streamline-skin/node_modules/foundation-sites/scss',
-                'node_modules/ricola3-streamline-skin/node_modules/ricola3/node_modules/foundation-sites/scss',
-                'node_modules/ricola3-streamline-skin/src/scss',
-                'node_modules/ricola3/scss',
-                'node_modules/ricola3-streamline-skin/node_modules/ricola3/scss'
+                'node_modules/foundation/scss'
             ]
         },
         files: {

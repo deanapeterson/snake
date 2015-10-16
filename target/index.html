@@ -34,21 +34,24 @@
 		<script type="text/javascript" src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
 		<script type="text/javascript" src="node_modules/fastclick/lib/fastclick.js"></script>
 		<script type="text/javascript" src="src/app.module.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/snake.module.es5.js"></script>
+		<script type="text/javascript" src="src/app/home/home.controller.module.es5.js"></script>
+		<script type="text/javascript" src="src/app/play/play.controller.module.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/snake.module.es5.js"></script>
+		<script type="text/javascript" src="src/templates-app.module.es5.js"></script>
 		<script type="text/javascript" src="src/app.controller.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/barriers/barriers.directive.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/configuration.service.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/food/food-utils.service.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/food/food.service.directive.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/game-board/game-board.directive.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/game-controller.directive.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/game.controller.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/levels/level-definitions/level-01.run.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/levels/levels.service.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/models/game-state.model.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/models/snake-state.model.es5.js"></script>
+		<script type="text/javascript" src="src/app/snake-game/snake/render-segment.directive.es5.js"></script>
 		<script type="text/javascript" src="src/routes.config.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/barriers/barriers.directive.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/configuration.service.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/food/food-utils.service.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/food/food.service.directive.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/game-board/game-board.directive.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/game-controller.directive.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/game.controller.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/levels/level-definitions/level-01.run.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/levels/levels.service.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/models/game-state.model.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/models/snake-state.model.es5.js"></script>
-		<script type="text/javascript" src="src/snake-game/snake/render-segment.directive.es5.js"></script>
 		<script type="text/javascript" src="templates-app.js"></script>
 		
 
@@ -60,9 +63,27 @@
 <!--[if IE 8]>
 <body class="no-js lt-ie9" ng-controller='AppCtrl'> <![endif]-->
 <!--[if gt IE 8]><!-->
-<body class="no-js" ng-controller="AppCtrl as app">
+<body class="no-js" ng-controller="AppController as app">
 <!--<![endif]-->
+	<header>
+		<div class="row">
+			<div class="columns">
+				<ul class="breadcrumbs">
+					<li><a href="">home</a></li>
+					<li><a href="">about</a></li>
+				</ul>
+			</div>
+		</div>
 
+		<div class="row">
+			<div class="medium-4 columns">
+				<h1>SNAKE</h1>
+			</div>
+			<div class="columns medium-8">
+				A port of the classic 80's computer game in AngularJs.
+			</div>
+		</div>
+	</header>
 	<div class="row">
 		<div class="columns" ui-view></div>
 	</div>

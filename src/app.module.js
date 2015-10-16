@@ -12,5 +12,9 @@ angular
   .module('app', [
     'ngAnimate',
     'ngTouch',
-    'ui.router'
+    'ui.router',
+    'templates-app',
+    'route.home',
+    'route.play',
+    'snake'
   ]);

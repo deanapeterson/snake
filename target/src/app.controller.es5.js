@@ -9,5 +9,7 @@
  */
 angular.module('app').controller('AppController', AppController);
 
-function AppController() {}
+function AppController($state) {
+  $state.go('home');
+}
 //# sourceMappingURL=app.controller.es5.js.map

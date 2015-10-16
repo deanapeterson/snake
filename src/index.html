@@ -36,9 +36,27 @@
 <!--[if IE 8]>
 <body class="no-js lt-ie9" ng-controller='AppCtrl'> <![endif]-->
 <!--[if gt IE 8]><!-->
-<body class="no-js" ng-controller="AppCtrl as app">
+<body class="no-js" ng-controller="AppController as app">
 <!--<![endif]-->
+	<header>
+		<div class="row">
+			<div class="columns">
+				<ul class="breadcrumbs">
+					<li><a href="">home</a></li>
+					<li><a href="">about</a></li>
+				</ul>
+			</div>
+		</div>
 
+		<div class="row">
+			<div class="medium-4 columns">
+				<h1>SNAKE</h1>
+			</div>
+			<div class="columns medium-8">
+				A port of the classic 80's computer game in AngularJs.
+			</div>
+		</div>
+	</header>
 	<div class="row">
 		<div class="columns" ui-view></div>
 	</div>

@@ -17,7 +17,6 @@ function barriersDirective(snakeByteConfig, snakeState, barriers) {
 
         angular.forEach(barriers.data, function(coords){
           var el = angular.element("<div class='barrier'></div>");
-          console.log(el);
             el.css({
               width: snakeByteConfig.blockSize,
               height: snakeByteConfig.blockSize,

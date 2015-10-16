@@ -1,23 +1,25 @@
 'use strict';
 
-angular.module('snake').directive('gameController', gameControllerDirective);
+angular
+    .module('snake')
+    .directive('snakeGame', gameControllerDirective);
 
 function gameControllerDirective(gameState) {
 
     return {
-        controller: 'SnakeByteController',
-        require: 'gameControls',
-        controllerAs: 'sbc',
+        controller : 'GameController',
+        require : 'snakeGame',
+        controllerAs : 'sbc',
         link: link
     };
 
     function link($scope, $element, $attrs, sbc) {
         $element.on('keyup', onKeyup);
-
-        function onKeyup(event) {
+        
+        function onKeyup(event){
             var keyCode = event.keyCode;
             var direction = 'up';
-
+    
             switch (keyCode) {
                 case 38:
                     direction = 'up';
@@ -32,18 +34,18 @@ function gameControllerDirective(gameState) {
                     direction = 'left';
                     break;
             }
-
+    
             if (keyCode === 32) {
                 sbc.togglePause();
                 return;
             }
-
+    
             setNextAdvance(direction);
         }
 
         function setNextAdvance(direction) {
             var nextAdvance;
-
+    
             switch (direction) {
                 case 'left':
                     nextAdvance = [-1, 0, direction];
@@ -60,6 +62,7 @@ function gameControllerDirective(gameState) {
             }
             gameState.setNextAdvance(nextAdvance);
         }
+        
+
     }
 }
-//# sourceMappingURL=game-controller.directive.es5.js.map

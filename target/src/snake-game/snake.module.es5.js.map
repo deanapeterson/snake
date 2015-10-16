@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../src/snake-game/snake.module.js"],"names":[],"mappings":";;AAAA,OAAO,CAAC,MAAM,CAAC,OAAO,EAAE,EAAE,CAAC,CAAC","file":"snake.module.es5.js","sourcesContent":["angular.module('snake', []);"]}
