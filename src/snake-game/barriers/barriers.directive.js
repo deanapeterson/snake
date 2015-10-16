@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-  .module('snake-byte')
+  .module('snake')
   .directive('barriers', barriersDirective);
 
 function barriersDirective(snakeByteConfig, snakeState, barriers) {

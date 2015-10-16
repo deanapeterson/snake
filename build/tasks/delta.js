@@ -51,7 +51,7 @@ module.exports = {
      * When our templates change, we only rewrite the template cache.
      */
     tpls: {
-        files: ['<%= buildConfig.appFiles.atpl %>', '<%= buildConfig.appFiles.ctpl %>'],
+        files: ['<%= buildConfig.appFiles.atpl %>'],
         tasks: ['html2js']
     },
 
@@ -60,8 +60,7 @@ module.exports = {
      */
     sass: {
         files: [
-        'src/**/*.scss',
-        'node_modules/ricola3-streamline-skin/src/scss/**/*.scss'
+        'src/**/*.scss'
         ],
         tasks: ['sass', 'postcss'  ]
     },

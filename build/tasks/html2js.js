@@ -15,16 +15,5 @@ module.exports = {
         },
         src: ['<%= buildConfig.appFiles.atpl %>'],
         dest: '<%= buildConfig.buildDir%>/templates-app.js'
-    },
-
-    /**
-     * These are the templates from `src/common`.
-     */
-    common: {
-        options: {
-            base: 'src/common'
-        },
-        src: ['<%= buildConfig.appFiles.ctpl %>'],
-        dest: '<%= buildConfig.buildDir%>/templates-common.js'
     }
 };

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('snake-byte').run(addLevelOne);
+angular.module('snake').run(addLevelOne);
 
 function addLevelOne(levels) {
 

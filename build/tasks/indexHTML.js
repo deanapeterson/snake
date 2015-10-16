@@ -14,7 +14,6 @@ module.exports = {
             '<%= buildConfig.vendorFiles.js %>',
             '<%= buildConfig.buildDir%>/src/**/*module*.js',
             '<%= buildConfig.buildDir%>/src/**/*.js',
-            '<%= html2js.common.dest %>',
             '<%= html2js.app.dest %>',
             '<%= buildConfig.vendorFiles.css %>',
             '<%= buildConfig.buildDir%>/assets/**/*.css'

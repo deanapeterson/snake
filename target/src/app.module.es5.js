@@ -8,7 +8,5 @@
  *
  * Main module of the application.
  */
-angular.module('app', ['ngAnimate', 'ngTouch']);
-
-// 'snake-byte'
+angular.module('app', ['ngAnimate', 'ngTouch', 'ui.router']);
 //# sourceMappingURL=app.module.es5.js.map

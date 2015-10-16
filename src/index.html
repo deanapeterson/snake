@@ -1,74 +1,46 @@
 <!doctype html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-		<meta name="description" content="">
-		<meta name="viewport" content="width=device-width">
-		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-		<!-- build:css(.) styles/vendor.css -->
-		<!-- bower:css -->
-		<!-- endbower -->
-		<!-- endbuild -->
-		<!-- build:css(.tmp) assets/sass/main.css -->
-		<link rel="stylesheet" href="assets/sass/main.css">
-		<!-- endbuild -->
-	</head>
-	<body ng-app="app" game-controls>
-		<div class="header">
-			<div class="navbar navbar-default" role="navigation">
-				<div class="container">
-					<div class="navbar-header">
-						<a class="navbar-brand" href="#/">Snake</a>
-					</div>
+<html ng-app="app">
 
-					<div class="collapse navbar-collapse" id="js-navbar-collapse">
+<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Snake</title>
 
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="#/">Home</a></li>
-							<li><a ng-href="#/">About</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container" ui-view></div>
-		<div class="footer">
-			<div class="container">
-				<p>Based on the classic 80's game.  Copyright 2015 Dean A Peterson</p>
-			</div>
-		</div>
-		<!-- build:js(.) scripts/vendor.js -->
-		<!-- bower:js -->
-		<script src="bower_components/jquery/dist/jquery.js"></script>
-		<script src="bower_components/angular/angular.js"></script>
-		<script src="bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js"></script>
-		<script src="bower_components/angular-animate/angular-animate.js"></script>
-		<script src="bower_components/angular-touch/angular-touch.js"></script>
-		<!-- endbower -->
-		<!-- endbuild -->
+		<!-- Fastclick -->
+		<script>
+			'use strict';
+			if (window.addEventListener) {
+					window.addEventListener('load', function() {
+							FastClick.attach(document.body);
+					}, false);
+			}
+		</script>
 
-				<!-- build:js({.tmp,app}) scripts/scripts.js -->
-				<script src="blocks/app/app.module.js"></script>
-				<script src="blocks/app/app.controller.js"></script>
+		<!-- CSS and JavaScript are injected into the application automatically. -->
+		<!-- Add or remove files by editing 'vendorFiles' in build/config.js -->
 
-				<script src="blocks/snake-game/snake-byte.module.js"></script>
-				<script src="blocks/snake-game/snake-byte.controller.js"></script>
-				<script src="blocks/snake-game/levels.service.js"></script>
+		<!-- Compiled CSS -->
+		<% cssFiles.forEach(function(file) { %><link rel="stylesheet" type="text/css" href="<%= file %>" />
+		<% }); %>
 
-				<script src="blocks/snake-game/configuration.service.js"></script>
-				
-				<script src="blocks/snake-game/directives/barriers.service.directive.js"></script>
-				<script src="blocks/snake-game/directives/food.service.directive.js"></script>
-				<script src="blocks/snake-game/directives/game-board.directive.js"></script>
-				<script src="blocks/snake-game/directives/game-controls.directive.js"></script>
-				<script src="blocks/snake-game/directives/render-segment.directive.js"></script>
+		<!-- Compiled JavaScript -->
+		<% jsFiles.forEach(function(file) { %><script type="text/javascript" src="<%= file %>"></script>
+		<% }); %>
 
-				<script src="blocks/snake-game/levels/level-01.run.js"></script>
-				<script src="blocks/snake-game/models/game-state.model.js"></script>
-				<script src="blocks/snake-game/models/snake-state.model.js"></script>
+</head>
+<!--[if lt IE 7]>
+<body class="no-js lt-ie9 lt-ie8 lt-ie7" ng-controller='AppCtrl'> <![endif]-->
+<!--[if IE 7]>
+<body class="no-js lt-ie9 lt-ie8" ng-controller='AppCtrl'> <![endif]-->
+<!--[if IE 8]>
+<body class="no-js lt-ie9" ng-controller='AppCtrl'> <![endif]-->
+<!--[if gt IE 8]><!-->
+<body class="no-js" ng-controller="AppCtrl as app">
+<!--<![endif]-->
 
-
-				<!-- endbuild -->
+	<div class="row">
+		<div class="columns" ui-view></div>
+	</div>
 </body>
 </html>

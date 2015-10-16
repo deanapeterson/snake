@@ -19,21 +19,21 @@ module.exports = {
 			'node_modules/babel-core/browser-polyfill.js',
 			'node_modules/grunt-babel/node_modules/babel-core/browser-polyfill.js',
 			'node_modules/jquery/dist/jquery.js',
+			'node_modules/lodash/index.js',
+
 			'node_modules/angular/angular.js',
-			'node_modules/angular-resource/angular-resource.js',
+			'node_modules/angular-touch/angular-touch.js',
+			'node_modules/angular-animate/angular-animate.js',
 			'node_modules/angular-ui-router/release/angular-ui-router.js',
-			'node_modules/ricola3/ricola.js',
 			'node_modules/fastclick/lib/fastclick.js'
 		],
 		css: [
 			// Ricola and application CSS will be loaded at the Sass compilation phase.
-			'src/app/common/stm-spinner/stm-spinner.css'
+
 		],
 		// files in html/images will not be flattened or minified
 		html: [],
-		images: [
-			'node_modules/ricola3/icons/**/*'
-		],
+		images: [],
 		assets: []
 	},
 
@@ -108,7 +108,7 @@ module.exports = {
 	 * built.
 	 */
 	buildDir: 'target',
-	compileDir: 'target/bin',
+	compileDir: 'target/dist',
 
 	/**
 	 * This is a collection of file patterns that refer to our app code (the stuff in `src/`). These file paths are used in the configuration of build tasks.
@@ -125,8 +125,6 @@ module.exports = {
 		jsunit: ['src/**/*.spec.js'],
 
 		atpl: ['src/app/**/*.html'],
-		ctpl: ['src/common/**/*.html'],
-
 		html: ['src/index.html'],
 		sass: 'src/sass/main.scss'
 	},

@@ -1,7 +1,7 @@
 'use strict';
 
 angular
-    .module('snake-byte')
+    .module('snake')
     .directive('renderSegment', renderSegmentDirective);
 
 function renderSegmentDirective(snakeByteConfig) {

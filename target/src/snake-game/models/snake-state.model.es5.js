@@ -1,5 +1,5 @@
 'use strict';
-angular.module('snake-byte').factory('snakeState', snakeStateFactory);
+angular.module('snake').factory('snakeState', snakeStateFactory);
 
 function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
   var service = {

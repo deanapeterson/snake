@@ -12,5 +12,5 @@ angular
   .module('app', [
     'ngAnimate',
     'ngTouch',
-    // 'snake-byte'
+    'ui.router'
   ]);
