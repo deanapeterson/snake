@@ -1,6 +1,5 @@
 'use strict';
-angular.module('snake-byte')
-  .factory('snakeState', snakeStateFactory);
+angular.module('snake-byte').factory('snakeState', snakeStateFactory);
 
 function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
   var service = {
@@ -49,8 +48,6 @@ function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
 
     event = $rootScope.$broadcast('beforeAdvance', nextCoords);
 
-
-
     if (event.defaultPrevented) {
       gameState.crash();
       return;
@@ -60,9 +57,7 @@ function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
 
     service.segments.unshift(nextCoords);
 
-
     service.removeLast();
-
   }
 
   function getCornerClass(nextPos) {
@@ -70,9 +65,8 @@ function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
     if (nextPos !== service.segments[0][2]) {
       service.segments[0][3] = 'corner ' + service.segments[0][2] + '-' + nextPos;
     } else {
-      service.segments[0][3]= '';
+      service.segments[0][3] = '';
     }
-
   }
 
   // function beforeAdvance(nextX, nextY) {
@@ -89,11 +83,11 @@ function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
   // }
 
   function hitEdge(nextX, nextY) {
-    if (nextX < 0 || nextX > (snakeByteConfig.gridWidth - 1)) {
+    if (nextX < 0 || nextX > snakeByteConfig.gridWidth - 1) {
       return false;
     }
 
-    if (nextY < 0 || nextY > (snakeByteConfig.gridHeight - 1)) {
+    if (nextY < 0 || nextY > snakeByteConfig.gridHeight - 1) {
       return false;
     }
   }
@@ -108,3 +102,4 @@ function snakeStateFactory($rootScope, gameState, snakeByteConfig) {
     }
   }
 }
+//# sourceMappingURL=snake-state.model.es5.js.map

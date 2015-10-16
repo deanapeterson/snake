@@ -1,8 +1,6 @@
 'use strict';
 
-angular
-  .module('snake')
-  .controller('GameController', GameController);
+angular.module('snake').controller('GameController', GameController);
 
 function GameController(gameState, snakeState, $interval, $rootScope, barriers) {
     var sbc = this;
@@ -38,8 +36,8 @@ function GameController(gameState, snakeState, $interval, $rootScope, barriers) 
         startInterval();
     }
 
-    function startInterval(){
-        intervalPromise = $interval(function() {
+    function startInterval() {
+        intervalPromise = $interval(function () {
             snakeState.advance(gameState.state.nextAdvance);
         }, 100);
     }
@@ -50,7 +48,6 @@ function GameController(gameState, snakeState, $interval, $rootScope, barriers) 
         //     return;
         // }
 
-
         if (gameState.state.paused) {
             startInterval();
             gameState.pause();
@@ -60,3 +57,4 @@ function GameController(gameState, snakeState, $interval, $rootScope, barriers) 
         $interval.cancel(intervalPromise);
     }
 }
+//# sourceMappingURL=game.controller.es5.js.map

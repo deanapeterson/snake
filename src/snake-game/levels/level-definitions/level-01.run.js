@@ -39,7 +39,7 @@ function addLevelOne(levels) {
             [30, 30],
             [35, 35]
         ]
-    })
+    });
 
 
 

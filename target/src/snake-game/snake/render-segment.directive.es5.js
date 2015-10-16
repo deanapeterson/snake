@@ -1,8 +1,6 @@
 'use strict';
 
-angular
-    .module('snake-byte')
-    .directive('renderSegment', renderSegmentDirective);
+angular.module('snake-byte').directive('renderSegment', renderSegmentDirective);
 
 function renderSegmentDirective(snakeByteConfig) {
 
@@ -17,8 +15,8 @@ function renderSegmentDirective(snakeByteConfig) {
             width: snakeByteConfig.blockSize,
             height: snakeByteConfig.blockSize,
             left: $scope.segment[0] * snakeByteConfig.blockSize,
-            top: $scope.segment[1] * snakeByteConfig.blockSize,
+            top: $scope.segment[1] * snakeByteConfig.blockSize
         });
-
     }
 }
+//# sourceMappingURL=render-segment.directive.es5.js.map

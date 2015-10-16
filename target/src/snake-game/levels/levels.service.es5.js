@@ -1,7 +1,6 @@
 'use strict';
 
-angular.module('snake')
-    .factory('levels', levelsProvider);
+angular.module('snake').factory('levels', levelsProvider);
 
 /**
  * LevelConfig
@@ -18,25 +17,24 @@ angular.module('snake')
     }
  **/
 
-function levelsProvider(){
+function levelsProvider() {
 
     var service = {
-        data : [
+        data: [
             //[levelConfigs]
         ],
-        add : add,
-        getLevel : getLevel
+        add: add,
+        getLevel: getLevel
     };
-
 
     return service;
 
-    function add(levelConfig){
+    function add(levelConfig) {
         console.log(levelConfig);
     }
 
-    function getLevel(index){
+    function getLevel(index) {
         console.log(index);
     }
-
 }
+//# sourceMappingURL=levels.service.es5.js.map
