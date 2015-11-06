@@ -5,12 +5,14 @@ angular
 	.config(configRoutes);
 
 function  configRoutes($stateProvider){
+	
 	$stateProvider.state({
 		name : 'home',
 		templateUrl : 'home/home.view.html',
 		controller : 'HomeController as homeCtrl',
-		url : '/'
+		url : '/home'
 	});
+
 	$stateProvider.state({
 		name : 'play',
 		url : '/play',

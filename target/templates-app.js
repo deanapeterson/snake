@@ -9,7 +9,7 @@ angular.module("home/home.view.html", []).run(["$templateCache", function($templ
     "</div>\n" +
     "<div class=\"row\">\n" +
     "	<div class=\"columns small-4 small-offset-4\">\n" +
-    "		<button ng-click='' class='button expand round'>Play</button>\n" +
+    "		<button ng-click='homeCtrl.play()' class='button expand round'>Play</button>\n" +
     "	</div>\n" +
     "	<div class=\"small-4 columns\"></div>\n" +
     "</div>\n" +
