@@ -10,10 +10,12 @@ function  configRoutes($stateProvider){
 		name : 'home',
 		url : '/home',
 		templateUrl : 'home/home.view.html',
+		controller : 'HomeController',
+		controllerAs : 'home'
 	});
 
 	$stateProvider.state({
-		name : 'home.play',
+		name : 'play',
 		url : '/play',
 		templateUrl : 'play/play.view.html',
 		controller : 'PlayController as playCtrl'

@@ -1,7 +1,8 @@
 'use strict';
 
-angular.module('route.home', [])
-.controller('HomeController', HomeController);
+angular
+	.module('route.home', [])
+	.controller('HomeController', HomeController);
 
 function HomeController($state){
 	var homeCtrl = this;

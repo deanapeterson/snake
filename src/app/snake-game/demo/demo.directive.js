@@ -2,11 +2,12 @@
 
 angular
 	.module('snake')
-	.directive('demo', demoDirective);
+	.directive('snakeDemo', demoDirective);
 
 function demoDirective(){
 	return {
 		controller : 'DemoController',
-		controllerAs : 'sbc'
+		controllerAs : 'sbc',
+		templateUrl : 'snake-game/demo/demo.view.html'
 	};
 }
