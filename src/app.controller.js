@@ -11,6 +11,6 @@ angular
   .module('app')
   .controller('AppController', AppController);
 
-function AppController($state){
-	$state.go('home');
+function AppController(){
+
 }
