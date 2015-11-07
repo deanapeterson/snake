@@ -6,5 +6,7 @@ angular.module('route.home', [])
 function HomeController($state){
 	var homeCtrl = this;
 
-	homeCtrl.play = $state.go('play');
+	homeCtrl.play = function(){
+		$state.go('play');
+	};
 }
