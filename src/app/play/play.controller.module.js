@@ -4,7 +4,7 @@ angular.module('route.play', [])
 .controller('PlayController', PlayController);
 
 function PlayController(){
-	// var playCtrl = this;
+	var play = this;
 
-	// playCtrl.play = $state.go('play');
+	play.test = 'hello';
 }

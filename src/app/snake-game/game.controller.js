@@ -4,7 +4,7 @@ angular
   .module('snake')
   .controller('GameController', GameController);
 
-function GameController($attrs) {
+function GameController($attrs, $stateParams) {
     // var sbc = this;
     // var intervalPromise;
 
@@ -20,6 +20,7 @@ function GameController($attrs) {
 
     // $rootScope.$on('crash', stop);
 
+    console.log($stateParams);
 
     activate();
 

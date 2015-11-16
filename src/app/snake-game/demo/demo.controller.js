@@ -9,5 +9,7 @@ function DemoController(BaseControllerMixin){
 
 	BaseControllerMixin.call(ctrl);
 
+	ctrl.init();
+ctrl.start();
 
 }

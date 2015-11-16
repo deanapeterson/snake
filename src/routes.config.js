@@ -16,8 +16,9 @@ function  configRoutes($stateProvider){
 
 	$stateProvider.state({
 		name : 'play',
-		url : '/play',
+		url : '/play/:level',
 		templateUrl : 'play/play.view.html',
-		controller : 'PlayController as playCtrl'
+		controller : 'PlayController',
+		controllerAs : 'play'
 	});
 }

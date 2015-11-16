@@ -2,10 +2,10 @@
 
 angular
   .module('snake')
-  .directive('food', foodDirective);
+  .directive('renderFood', renderFoodDirective);
 
 
-function foodDirective(snakeByteConfig, snakeState, food) {
+function renderFoodDirective(snakeByteConfig, snakeState, food) {
 
     return {
         restrict: 'E',

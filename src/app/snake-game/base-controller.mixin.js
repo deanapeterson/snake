@@ -24,13 +24,13 @@ function BaseControllerMixinFactory(gameState, snakeState, $interval){
   };
 
   function init(){
-
+    console.log(init);
   }
 
   function start() {
       gameState.start();
       snakeState.init();
-      startInterval();
+      this.startInterval();
   }
 
   function stop() {
